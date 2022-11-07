@@ -1,7 +1,7 @@
 {
 	"setting": {
-		"options": "Options",
-		"plugin": "Plugin",
+		"options": "অপশন",
+		"plugin": "প্লাগ-ইন",
 		"builtin-plugins": "Core plugins",
 		"plugin-options": "Plugin options",
 		"folder-path-example-placeholder": "Example: folder 1/folder 2",
